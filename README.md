@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy ingeniero de software enfocado en tecnologias web modernas , ya sean paginas web, aplicacion web , aplicaciones hibridas , aplicaciones de servidor , manejo js , python , java , css , typescript , scsss , sass <br>manejo node . js  , frameworks frontend : angular , react , librerias como jquery<br><br>frameworks de backend : django , spring  framework , flask , express , nest.js , next.js<br>base de datos : sql server , oracle db , potsgres sql , sqlite , mongo db , maria db , dyno db , firebase <br><br>gestores de paquetes como como , npm , mvn , gradle , yarn , pnpm
+Prueba
 
 
 ## 🌐 Socials:
